@@ -37,7 +37,7 @@ En esta seccion, se establecen dos metodos de pago disponibles y una guia visual
 
 HASTA LA PARTE DE LA EXPERIENCIA DE USUARIO. VAYAMOS AHORA A...
 
-### EXPERIENCIA DE ADMINISTRADOR
+### EXPERIENCIA DE ADMINISTRADOR:
 Como toda pagina, contamos con un dashboard que nos permita gestionar contenido de la pagina pero a su vez, asegurarnos de que este adecuadamente protegida para evitar visitas indeseadas.
 
 Aca podemos responder los mensajes recibidos, crear, editar y/o eliminar blogs, eventos o testimonios. Podremos activar o desativar la visualizacion de las imagenes de la galeria y saber que personas estan suscritas a un evento en particular.
